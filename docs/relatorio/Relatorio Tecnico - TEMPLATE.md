@@ -1,21 +1,20 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+(Titulo a definir)
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciencias da computação 
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+
+ Os membros do grupo são: 
+> - Lucas Jhony da Silva
+> - Fernando Dantas Albergaria de Carvalho
+> - Pedro freitas stefanelli santos
 
 # Estrutura do Documento
 
