@@ -6,7 +6,7 @@
 
 * Lucas Jhony da Silva 
 * Pedro freitas stefanelli santos 
-* Nome completo do aluno 3
+* Fernando Dantas Albergaria de Carvalho
 * Nome completo do aluno 4
 
 ## Professores responsáveis
