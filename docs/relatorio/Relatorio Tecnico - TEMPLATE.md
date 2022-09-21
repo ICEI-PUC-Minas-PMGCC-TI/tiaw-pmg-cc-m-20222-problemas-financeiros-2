@@ -15,6 +15,8 @@ Ciencias da computação
 > - Lucas Jhony da Silva
 > - Fernando Dantas Albergaria de Carvalho
 > - Pedro freitas stefanelli santos
+> - Lucas gentil lucena
+> Giovanni Belini Cirilo
 
 # Estrutura do Documento
 
@@ -55,7 +57,7 @@ Ciencias da computação
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O poblema que queremos ajudar é a falta de educação financeira para pessoas que estão começando no mercado de trabalho, hoje em dia os jovens que ingressam no mercado de trabalho não sabem onde investir ou o que fazer com o seu dinheiro de forma conciente para coneguir ter uma liberdade financeira no futuro.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -74,8 +76,7 @@ Ciencias da computação
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
-
-......  COLOQUE AQUI O SEU TEXTO ......
+ Nosso objetivo é ajudar esses jovens ou pessoas que não tem conhecimento financeiro a entender o que é o dinheiro, conhecer melhor o mercado financiero, e entender em como não cair em golpes de maquinas milagrososas de ficar rico na internt, hoje em dia com tanta informação o nosso objetivo nesse projeto, é  projetar os gastos mensais que o usuario tem, ver o quanto é possivel controlar seus gastos de acordo com a necessidade do usuario, e ensinar de forma simples o basico sobre educação financeira.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -87,8 +88,10 @@ Ciencias da computação
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
-
-......  COLOQUE AQUI O SEU TEXTO ......
+A Educação Financeira é indispensável na vida das pessoas. Diariamente elas são
+confrontadas com situações que de alguma maneira exigem conhecimentos financeiros. Seja o
+simples ato de fazer compras no mercado, decidir a melhor opção para comprar um automóvel, ou
+até mesmo realizar uma aplicação em algum tipo de investimento.
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -104,7 +107,7 @@ Ciencias da computação
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Jovens iniciando no mercado de trabalho, pessoas com pouco conhecimento financeiro.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
