@@ -7,7 +7,8 @@
 * Lucas Jhony da Silva 
 * Pedro freitas stefanelli santos 
 * Fernando Dantas Albergaria de Carvalho
-* Nome completo do aluno 4
+* Giovanni Belini Cirilo
+* Lucas gentil lucena
 
 ## Professores responsáveis
 
