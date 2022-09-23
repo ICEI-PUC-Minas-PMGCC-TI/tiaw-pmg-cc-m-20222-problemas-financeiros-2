@@ -148,12 +148,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Foram pensadas em ser simples e faceis de usar, mas que entreguem tudo o que o usuario prescisa.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
@@ -161,22 +157,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+Essas são as primeira versoes dos wireframes
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+![Home](https://user-images.githubusercontent.com/113921098/191996623-937b8d0a-59b6-4cae-b6c5-1ac2897f1ea9.png)
+![About](https://user-images.githubusercontent.com/113921098/191996601-872d71d5-7ed0-457f-b274-94904e1f100b.png)
+![Philosophy](https://user-images.githubusercontent.com/113921098/191996635-d2e40d23-d7b5-458c-b624-20085644bc95.png)
+![Features](https://user-images.githubusercontent.com/113921098/191996588-6dc8b334-40fd-4e7e-9399-b1c10071f7fa.png)
+![Feedback](https://user-images.githubusercontent.com/113921098/191996580-4f918f9d-aadf-4094-bce9-350080e2b3b3.png)
+![Pricing](https://user-images.githubusercontent.com/113921098/191996632-3cb2ad94-10c9-4688-813f-c45f543f6bc5.png)
+![Download Now](https://user-images.githubusercontent.com/113921098/191996591-b5fade8b-df83-4a80-a8ec-ee47cdcfaf46.png)
+![Contact](https://user-images.githubusercontent.com/113921098/191996597-40d87c93-dc4c-4567-8ac6-48df281d5449.png)
 
 
 # Metodologia
