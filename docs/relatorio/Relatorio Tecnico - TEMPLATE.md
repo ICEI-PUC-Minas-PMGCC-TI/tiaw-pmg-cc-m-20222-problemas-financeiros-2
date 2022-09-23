@@ -1,7 +1,7 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-(Titulo a definir)
+Bear market
 
 `CURSO` 
 
