@@ -157,7 +157,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-
+![Untitled (1)](https://user-images.githubusercontent.com/113921098/191986390-e901af6f-0e2d-4b34-8656-91edc7e6417b.jpg)
 
 ## Wireframes
 
