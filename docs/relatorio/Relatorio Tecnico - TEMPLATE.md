@@ -202,14 +202,13 @@ Essas são as primeira versoes dos wireframes
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro (https://miro.com/welcomeonboard/V1g0UndGWTlqRGRyTUNHT01zZXQwenVzeW1XZWZpU3BXZm1aMEt6QmdlS0hrbk5CR3gxYVA5VDNOU0czZlZsMHwzNDU4NzY0NTM0MjY5NjIyODAwfDI=?share_link_id=925673057182) | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Hospedagem do site | Canva |  (https://beartiaw.my.canva.site/) | 
+|Protótipo Interativo | Canva | (https://beartiaw.my.canva.site/)| 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
