@@ -16,7 +16,7 @@ Ciencias da computação
 > - Fernando Dantas Albergaria de Carvalho
 > - Pedro freitas stefanelli santos
 > - Lucas gentil lucena
-> Giovanni Belini Cirilo
+> - Giovanni Belini Cirilo
 
 # Estrutura do Documento
 
