@@ -134,7 +134,10 @@ Jovens iniciando no mercado de trabalho, pessoas com pouco conhecimento financei
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1. Francielle tem 21 anos é assistente financeira de uma clinica de Odontologian não entende nada sobre educação financeira pessoal, apesar de ser assistente financeira de uma empresa, acaba gastando todo seu salario com as contas de casa, roupas, lanches, e coisas em aplicativos asiaticos, Além disso, gostaria de melhorar seu controle sobre o seu propio dinheiro. Hoje ela anota tudo que gasta em um grupo só com ela no Whatsapp.
+2. João tem 19 anos é atedende o Mc Donalds em um shoping, e estudante de administração, joão tem um sonho te ter um carro e acaba colocando o dinheiro que sobra na poupança como seus pais o ensinaram, porém João acha que pode melhorar orendimento do seu dinheiro de uma forma melhor e com poucos riscos. Hoje ele busca conteudo no youtube sobre o assunto, mas não sente confiança nesses gurus de internet.
+3. Pedro tem 22 anos, estuda Engenharia Civil, e faz estagio em uma contrutora, Pedro quer juntar uma reserva de dinheiro para sair da casa dos pais, ja perdeu muito dinheiro em casa de apostas, e em cursos na internet, hoje Pedro conhece mais sobre apostas e aposta com mais segurança na live do baianoLol, porem ele acaba gastanto todo esse dinheiro em equipamento eletronicos e em jogos, sem nem perceber.
+4. Maria tem 20 anos, estuda Ciencias Sociais, e ganha bastante dinheiro fazendo unhas no bairro dela, ele quer juntar um dinheiro para expandir o negocio de unhas que ela tem, porém se descontrola nos fins de semana em festas e acaba ficando negativa no fim do mês, Hoje ela quer impor um limite nos gastos com festas e começar a investir para aumentar seu negocio no futuro.
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
@@ -166,8 +169,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Francielle          | Registrar meus gastos              | Controlar melhor os gasstos            |
+|João                | Aumentar investimento              | Comprar um carro                       |
+|Pedro               | Poupar dinheiro                    | Sair da casa dos pais                  |
+|Maria               | Diminuir gastos com festas         | Expandir negocio                       |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -188,8 +193,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário cadastre seus gastos | ALTA | 
+|RF-002| Emitir um relatório de de gastos todo mês  |MEDIA | 
+|RF-003|Recomendar conteúdos educacionais de acordo com nível de conhecimento do usuário | ALTA | 
+|RF-004|Teste de conhecimento sobre o mercado |MEDIA | 
+|RF-005|Permitir que o usuário veja o desempenho de seus investimentos | ALTA | 
+|RF-006 |Mostrar atualizações de projetos, como notícias e eventos, relacionadas a educação financira | ALTA | 
 
 
 ### Requisitos não Funcionais
@@ -197,7 +206,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Deve ter uma interface limpa e confiavel |ALTA| 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -467,8 +476,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
+CORDEIRO, Newton, COSTA, Manoel, SILVA, Marcio, EDUCAÇÃO FINANCEIRA NO BRASIL: uma perspectiva panorâmica, Ensino de matematica em debate, PUC Sp, 2018, disponivel em:
+https://revistas.pucsp.br/emd/article/download/36841/25699/0
+SAVOIA, José, SAITO, André, SANTANA, Flávia, Paradigmas da educação financeira no Brasil, Fundação Getulio Vargas, 2007, disponiel em: https://www.scielo.br/j/rap/a/XhqxBt4Cr9FLctVvzh8gLPb/?lang=pt
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
 > 
